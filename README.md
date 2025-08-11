@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Adhiraj Gupta
 
-<!--
-**Adhiraj-3/Adhiraj-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Great Problem Solver** | 🤖 **AI/ML Innovator** | 🌐 **Full-Stack Web Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m passionate about **solving complex problems** and building **end-to-end projects** — from scratch to fully functional, production-ready models and applications.
+
+With strong expertise in **Artificial Intelligence, Machine Learning, and Web Development**, I craft intelligent systems that are **scalable, efficient, and impactful**.
+
+---
+
+## 🛠 My Skillset
+
+**💻 Programming Languages**
+- Python, JavaScript, Java, C++, SQL
+
+**⚙️ Frameworks & Libraries**
+- PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers
+- React.js, Node.js, Express.js
+
+**🗄 Databases & Tools**
+- MySQL, MongoDB, FAISS, Docker, Git
+
+**📚 Specializations**
+- AI/ML Model Development (NLP, CV, RAG)
+- Federated Learning & Privacy-Preserving AI
+- RESTful APIs & Backend Architectures
+- Responsive Web Applications
